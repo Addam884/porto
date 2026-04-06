@@ -347,7 +347,7 @@ export default function App() {
                       className="flex items-center gap-2 font-medium text-zinc-900 hover:text-zinc-600 transition-colors"
                     >
                       <ExternalLink size={20} />
-                      Live Demo
+                      Demo
                     </a>
                     <a
                       href={project.githubUrl}
