@@ -18,8 +18,8 @@ const PERSONAL_INFO = {
   bio: "Saya adalah seorang Mobile Developer yang berfokus pada pembuatan aplikasi mobile yang bersih, responsif, dan mudah diakses. Saya senang mengubah masalah kompleks menjadi desain yang sederhana dan intuitif. Dengan pengalaman dalam berbagai proyek, saya selalu berusaha untuk meningkatkan keterampilan saya dan mengikuti perkembangan terbaru dalam teknologi mobile.",
   aboutDetailed: "Saya memulai perjalanan saya di dunia pengembangan mobile sejak tahun 2024, dengan fokus utama pada Flutter untuk dapat membuat aplikasi lintas platform dengan performa tinggi. Saya percaya bahwa aplikasi yang baik tidak hanya harus berfungsi dengan baik, tetapi juga harus memberikan pengalaman pengguna yang menyenangkan dan mudah digunakan.",
   socials: {
-    github: "https://github.com",
-    linkedin: "https://linkedin.com"
+    github: "https://github.com/Addam884",
+    linkedin: "www.linkedin.com/in/adam-yanuar-77a3023b3"
   }
 };
 
