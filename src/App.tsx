@@ -126,7 +126,7 @@ export default function App() {
               </a>
               <a href={project.demoUrl} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-6 py-3 bg-zinc-900 text-white font-medium rounded-lg hover:bg-zinc-800 transition-colors">
                 <ExternalLink size={18} />
-                Kunjungi Demo
+                Kunjungi Pameran
               </a>
             </div>
           </div>
@@ -347,7 +347,7 @@ export default function App() {
                       className="flex items-center gap-2 font-medium text-zinc-900 hover:text-zinc-600 transition-colors"
                     >
                       <ExternalLink size={20} />
-                      Demo
+                      Pameran
                     </a>
                     <a
                       href={project.githubUrl}
