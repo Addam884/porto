@@ -19,7 +19,7 @@ const PERSONAL_INFO = {
   aboutDetailed: "Saya memulai perjalanan saya di dunia pengembangan mobile sejak tahun 2024, dengan fokus utama pada Flutter untuk dapat membuat aplikasi lintas platform dengan performa tinggi. Saya percaya bahwa aplikasi yang baik tidak hanya harus berfungsi dengan baik, tetapi juga harus memberikan pengalaman pengguna yang menyenangkan dan mudah digunakan.",
   socials: {
     github: "https://github.com/Addam884",
-    linkedin: "www.linkedin.com/in/adam-yanuar-77a3023b3"
+    linkedin: "https://www.linkedin.com/in/adam-yanuar-77a3023b3"
   }
 };
 
